@@ -7,7 +7,7 @@
 <p align="center">
   Andrin Bertschi<sup>∗</sup>,
   Supraja Sridhara<sup>∗</sup>,
-  Mark Kuhne,
+  Mark Kuhne, <br />
   Benedict Schlüter,
   Friederike Groschupp,
   Clément Thorens,
