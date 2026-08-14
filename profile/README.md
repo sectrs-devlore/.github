@@ -18,7 +18,6 @@
 
 <p align="center">
   ETH Zurich
-  <br>
 
 </p>
 
