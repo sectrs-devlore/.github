@@ -19,7 +19,7 @@
 <p align="center">
   ETH Zurich
   <br>
-  <strong>RAID 2026</strong>
+
 </p>
 
 <!-- <p align="center">
@@ -36,3 +36,6 @@ Modern confidential computing executes sensitive computation in an abstraction c
 We present Devlore, a device interrupt isolation mechanism that protects confidential VMs from interrupt manipulation attacks. Our design employs a delegate-but-check strategy by offloading interrupt management to the hypervisor while adding correctness checks in trusted software.
 
 We prototype our design on the Arm Confidential Computing Architecture (CCA). We evaluate it on Arm FVP using four diverse devices attached to confidential VMs and report costs on a Rock 5B board. Our case studies demonstrate the feasibility of real-world use cases, while Devlore incurs only 0.06% overhead for typical integrated GPU applications.
+
+[Read Paper](https://arxiv.org/abs/2408.05835)  
+https://sectrs.ethz.ch/
